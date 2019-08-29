@@ -16,6 +16,7 @@ import com.student.model.Student;
 import com.student.service.StudentService;
 
 @RestController
+//EndPoint
 @RequestMapping("/Student")
 public class StudentController {
 
@@ -66,13 +67,3 @@ public class StudentController {
  Falta Docker
  Falta Programación Reactiva
  */
-
-
-
-
-
-
-
-
-
-
